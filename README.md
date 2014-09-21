@@ -62,10 +62,11 @@ The original data can be found at this website: https://d396qusza40orc.cloudfron
 		 
 	     - there are 180 rows indicating combinations of each subject for each activity
 
-	 - *columns*
+      - *columns*
 	 
-	    - there are 50 columns in the dataset
-	    -  please refer to AccelData_Codebook.md for further description of variables.
+	     - there are 50 columns in the dataset
+	     
+	     - please refer to AccelData_Codebook.md for further description of variables.
 		
 ## Data structure
 
@@ -115,6 +116,7 @@ The following process was used to transform the original raw data to its final o
 ## Credits
 
 *Author*: Gerard Lopez
+
 *Date*: 2014-09-22
 
 
